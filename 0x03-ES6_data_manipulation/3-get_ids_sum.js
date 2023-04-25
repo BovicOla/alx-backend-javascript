@@ -5,7 +5,6 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of stude
- * 	:* @returns {Number}
  */
 export default function getStudentIdsSum(students) {
   if (students instanceof Array) {
