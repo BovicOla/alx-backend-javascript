@@ -1,0 +1,8 @@
+npm install --global mocha
+npm init
+npm install --save-dev mocha
+npm install mocha
+sudo apt install node.js
+mkdir testing-async-code && cd testing-async-code 
+npm install --save-dev sinon
+npm install --save-dev chai
